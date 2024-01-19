@@ -96,8 +96,8 @@
     </tr>
     <tr>
       <td>10</td>
-      <td><a href="https://github.com/marcuszou/digicv2dj" target="_blank">Django Resume Website</a></td>
-      <td>Bootstrap, Django, Resume showcase</td>
+      <td><a href="https://github.com/marcuszou/digicv2dj" target="_blank">MorningStar Cafe</a></td>
+      <td>Java, SpringBoot, Fullstack, React</td>
       <td><a href="#" target="_blank">👉 Demo</a></td>
     </tr>
     <tr>
