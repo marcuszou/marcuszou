@@ -80,3 +80,97 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>#</b></td>
+      <td><b>Projects (Github Repository)</b></td>
+      <td><b>Genre (Language / Framework)</b></td>
+      <td><b>Live Preview</b></td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>14</td>
+      <td><a href="https://github.com/marcuszou/shapeup" target="_blank">Full Stack Fitness Mobile App in React Native</a></td>
+      <td>React Native, Mobile app, tailwindcss, Andriod Studio, iOs</td>
+      <td><a href="#" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td><a href="https://github.com/marcuszou/nike-shop-reactjs" target="_blank">Nike Website Clone in React.JS</a></td>
+      <td>React.JS, Vite.JS, tailwindcss, deployment</td>
+      <td><a href="#" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td><a href="https://github.com/marcuszou/portfolio-nextjs-tailwind" target="_blank">Next.js Portfolio Website</a></td>
+      <td>Next.js React, tailwindcss, deployment</td>
+      <td><a href="#" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td><a href="https://github.com/marcuszou/digicv2dj" target="_blank">Django Resume Website</a></td>
+      <td>Bootstrap, Django, Resume showcase</td>
+      <td><a href="#" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td><a href="https://github.com/marcuszou/temas" target="_blank">Bootstrap Bootcamp Website</a></td>
+      <td>Bootstrap (CSS Framework)</td>
+      <td><a href="#" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td><a href="https://github.com/marcuszou/folium-,apping-n-geocoding-calgary" target="_blank">Apply Folium for Geocoding Calgary</a></td>
+      <td>Python, folium, leaflet.js, Mapbox, API</td>
+      <td><a href="https://github.com/marcuszou/folium-,apping-n-geocoding-calgary" target="_blank">Click Here</a></td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td><a href="https://github.com/marcuszou/fireviz" target="_blank">Canadian Wildfire Data Visualization</a></td>
+      <td>Python, Flask, time series data, webapp, pseudo-Redis, Classification, dynamic webmap</td>
+      <td><a href="https://github.com/marcuszou/fireviz" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td><a href="https://github.com/marcuszou/zenchatgpt" target="_blank">ZenChatGPT</a></td>
+      <td>ChatGPT, AGI, Customization</td>
+      <td><a href="https://github.com/marcuszou/zenchatgpt" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td><a href="https://github.com/marcuszou/loading-an-unusual-seismic-cube" target="_blank">Loading an Unusual Seismic Cube</a></td>
+      <td>ArcGIS, Geodesy, Coordinates Transform, Projection, GPS, WKT</td>
+      <td><a href="https://github.com/marcuszou/loading-an-unusual-seismic-cube" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td><a href="https://github.com/marcuszou/covid19-dashboard" target="_blank">CoVID1- Dashboard</a></td>
+      <td>Python, pyEcharts, Web-scrapping</td>
+      <td><a href="https://github.com/marcuszou/covid19-dashboard" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td><a href="https://github.com/marcuszou/soccer_webapp" target="_blank">Comfy House (Shopping Cart)</a></td>
+      <td>Python, Django, Sqlite3, Qatar World Cup 2022, API, Live Score</td>
+      <td><a href="https://github.com/marcuszou/soccer_webapp" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td><a href="https://github.com/marcuszou/dataranger" target="_blank">Time Series Data Analytics project with Georgia Inst. of Technology</a></td>
+      <td>Python, Machine Learning, TIme Series, Facebook Prophet</td>
+      <td><a href="https://github.com/marcuszou/dataranger" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td><a href="https://github.com/marcuszou/opencv-geol-core-images" target="_blank">Apply OpenCV to classify geological core images</a></td>
+      <td>Python, OpenCV, Geology</td>
+      <td><a href="https://github.com/marcuszou/opencv-geol-core-images" target="_blank">👉 Click Here</a></td>
+    </tr>
+  </tbody>
+</table>
+
+###
+
