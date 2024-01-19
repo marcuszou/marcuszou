@@ -130,7 +130,7 @@ Here are some ideas to get you started:
     <tr>
       <td>07</td>
       <td><a href="https://github.com/marcuszou/fireviz" target="_blank">Canadian Wildfire Data Viz</a></td>
-      <td>Python, Flask, time series data, webapp, In-memory Chart.js, Classification, dynamic webmap</td>
+      <td>Python, Flask, time series data, webmap, In-memory Chart.js, Classification</td>
       <td><a href="https://github.com/marcuszou/fireviz" target="_blank">👉 Demo</a></td>
     </tr>
     <tr>
