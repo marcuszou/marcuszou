@@ -123,9 +123,9 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td>08</td>
-      <td><a href="https://github.com/marcuszou/folium-,apping-n-geocoding-calgary" target="_blank">Geocoding Calgary</a></td>
+      <td><a href="https://github.com/marcuszou/folium-apping-n-geocoding-calgary" target="_blank">Geocoding Calgary</a></td>
       <td>Python, folium, leaflet.js, Mapbox, API</td>
-      <td><a href="https://github.com/marcuszou/folium-,apping-n-geocoding-calgary" target="_blank">Click Here</a></td>
+      <td><a href="https://github.com/marcuszou/folium-apping-n-geocoding-calgary" target="_blank">👉 Click Here</a></td>
     </tr>
     <tr>
       <td>07</td>
