@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 ###
 
-<h2 align="left">Hi there 👋 My name is Marcus and I'm a Data Engineer, from Calgary, AB, Canada.</h2>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 ###
 
@@ -41,13 +41,17 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Marcus from Calgary, AB, Canada<br><br>- 🔭 I’m working as Data Engineer and Geoscientist<br>- 📚 I'm currently learning NFT<br>- ⚡ In my free time I fav water sports</p>
+<p align="left">I'm Marcus from Calgary, AB, Canada<br><br>- 🔭 I’m working as Data Engineer and Geoscientist<br>- 📚 I'm currently learning NFT<br>- ⚡ In my free time I fav all sorts of water sports</p>
 
 ###
 
 <h3 align="left">🛠 I code with</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -62,11 +66,17 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+
 </div>
 
 ###
