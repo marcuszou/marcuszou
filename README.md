@@ -159,7 +159,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="https://github.com/marcuszou/dataranger" target="_blank">Time Series Data Analytics project with Georgia Inst. of Technology</a></td>
+      <td><a href="https://github.com/marcuszou/dataranger" target="_blank">Time Series Data Analytics project</a></td>
       <td>Python, Machine Learning, TIme Series, Facebook Prophet</td>
       <td><a href="https://github.com/marcuszou/dataranger" target="_blank">👉 Click Here</a></td>
     </tr>
