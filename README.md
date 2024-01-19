@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">Hey 👋 What's up?</h2>
-<p align="left">I'm Marcus from Calgary, AB, Canada<br><br>- 🔭 I’m working as Data Engineer and Geoscientist<br>- 📚 I'm currently learning NFT<br>- ⚡ In my free time I fav all sorts of water sports</p>
+<p align="left">I'm Marcus, from Calgary, Alberta, Canada<br><br>- 🔭 I’m working as Data Engineer and Geoscientist<br>- 📚 I'm currently learning NFT<br>- ⚡ In my free time I favourite all sorts of water sports</p>
 
 ###
 
