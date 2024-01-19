@@ -71,8 +71,8 @@
     <tr border: none;>
       <td><b>#</b></td>
       <td><b>Project / Github Repo</b></td>
-      <td><b>tech Stack</b></td>
-      <td><b>Preview</b></td>
+      <td><b>Tech Stack</b></td>
+      <td><b>Demo</b></td>
     </tr>
   </thead>
   <tbody align="center">
@@ -115,7 +115,7 @@
     <tr>
       <td>07</td>
       <td><a href="https://github.com/marcuszou/fireviz" target="_blank">Canadian Wildfire Data Viz</a></td>
-      <td>Python, Flask, time series data, webmap, In-memory Chart.js, Classification</td>
+      <td>Python, Flask, webmap, In-memory Chart.js, Classification</td>
       <td><a href="https://github.com/marcuszou/fireviz" target="_blank">👉 Demo</a></td>
     </tr>
     <tr>
