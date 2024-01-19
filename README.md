@@ -31,18 +31,11 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">Hey 👋 What's up?</h2>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <p align="left">I'm Marcus from Calgary, AB, Canada<br><br>- 🔭 I’m working as Data Engineer and Geoscientist<br>- 📚 I'm currently learning NFT<br>- ⚡ In my free time I fav all sorts of water sports</p>
 
 ###
 
-<h3 align="left">🛠 I code with</h3>
+<h2 align="left">🛠 I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -78,12 +71,12 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=marcuszou&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
